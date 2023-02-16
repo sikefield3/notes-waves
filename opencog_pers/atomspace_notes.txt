@@ -1,0 +1,8 @@
+2023-02-14 10:33:33
+- Inconsistent/contradictory knowledge in AS:
+	Example: 2 Links?
+	1. (Concept("A") Predicate (X))
+	2. (Concept("A") Predicate (not X))
+
+	One possibilty to avoid contradiction is StateLink.
+- self referential input (liar's paradox)
